@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opdracht_1.1_a", "opdracht_1.1_a\opdracht_1.1_a.vcxproj", "{F870346E-D69B-4F56-80F4-9A16C8DA88F7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opdracht_1.1c", "opdracht_1.1c\opdracht_1.1c.vcxproj", "{F870346E-D69B-4F56-80F4-9A16C8DA88F7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opdracht_1.2_a", "opdracht_1.2_a\opdracht_1.2_a.vcxproj", "{D04903F1-4A05-4904-AF84-60C9BD804DB9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opdracht_1.2a", "opdracht_1.2a\opdracht_1.2a.vcxproj", "{D04903F1-4A05-4904-AF84-60C9BD804DB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
